@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahdizahedii2002
 - 👀 I’m interested in java and python !
-- 🌱 I’m currently learning java and puthon
+- 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mahdi.zahedi.mahdi@gmail.com
 
